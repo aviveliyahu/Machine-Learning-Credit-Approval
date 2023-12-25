@@ -1,10 +1,10 @@
 # Machine Learning - Credit Approval using BIG DATA
-## Github has an issue supporting visualization so we recommend using the link below in order to view it right instead of entering the ipynb file!
-## [@Credit Approval Link](https://github.com/aviveliyahu)
+## IMPORTANT NOTE: Github has an issue supporting visualization so we added them as a jpeg file to the repo, you can use the file in your spark / databricks environment in order to view it right
 
 
 ## Description
-This is a final project using big data tool such as spark and databricks. We were asked to check a known machine learning algorithms in order to predict wether to approve or not the user's credit card.
+This is a final project using big data tool such as spark and databricks and make use of our knowledge in Python, Machine learning algorithms and workflow (using Pipeline, OneHotEncoder etc..) , Databricks environment and data analysis tools.
+We were asked to check a known machine learning algorithms in order to predict wether to approve or not the user's credit card.
 We were given a dataset that we had to import as a Pandas dataframe, explore the types of columns it has and check if there are missing values or other parameters that need to be fixed.
 Later, we had to create our machine learning models, in our project we checked the following- 
 * Logistic Regression
@@ -26,9 +26,8 @@ We had a conclusion that the most important feature that affect it was wether th
 We also gave a small advice to the 'imaginary' credit approval company on how to approve or not a new costumer and what to look for the most.
 
 
-### Executing program
-Github has an issue supporting visualization so we recommend using the link below in order to view it right!
-[@Credit Approval Link](https://github.com/aviveliyahu)
+### Notes
+Github has an issue supporting visualization so we added them as a jpeg file to the repo, you can use the file in your spark / databricks environment in order to view it right
 
 ## Authors
 
