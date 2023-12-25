@@ -4,6 +4,7 @@
 
 ## Description
 This is a final project using big data tool such as spark and databricks and make use of our knowledge in Python, Machine learning algorithms and workflow (using Pipeline, OneHotEncoder etc..) , Databricks environment and data analysis tools.
+
 We were asked to check a known machine learning algorithms in order to predict wether to approve or not the user's credit card.
 We were given a dataset that we had to import as a Pandas dataframe, explore the types of columns it has and check if there are missing values or other parameters that need to be fixed.
 Later, we had to create our machine learning models, in our project we checked the following- 
