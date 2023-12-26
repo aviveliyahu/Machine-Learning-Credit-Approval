@@ -1,5 +1,5 @@
 # Machine Learning - Credit Approval using big data environment
-## IMPORTANT NOTE: Github has an issue supporting visualization so we added them as a jpeg file to the repo, you can use the file in your spark / databricks environment in order to view it right. in the right environment the visualization is dynamic and responding to mouse hover / click.
+## IMPORTANT NOTE: Github has an issue supporting visualization so we added them as a jpeg file to the repo, you can use the file in your big data environment in order to view it right (we used Databricks). in the right environment the visualization is dynamic and responding to mouse hover / click.
 
 
 ## Description
@@ -29,7 +29,7 @@ We also gave a small advice to the 'imaginary' credit approval company on how to
 
 
 ### Notes
-Github has an issue supporting visualization so we added them as a jpeg file to the repo, you can use the file in your spark / databricks environment in order to view it right. in the right environment the visualization is dynamic and responding to mouse hover / click.
+Github has an issue supporting visualization so we added them as a jpeg file to the repo, you can use the file in your big data environment in order to view it right (we used Databricks). in the right environment the visualization is dynamic and responding to mouse hover / click.
 
 
 ## Authors
